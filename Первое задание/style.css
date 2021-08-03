@@ -1,0 +1,89 @@
+body {
+    width: 100%;
+    min-width: 1300px;
+    max-height: 800px;
+    margin: 0;
+    background-image: url(image/Frame%205.png);
+    background-size: 100%;
+}
+
+.nav_link{
+    color: #ECECEC;
+    font-size: 30px;
+
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+.name {
+    text-transform: uppercase;
+    color: #ECECEC;
+    font-size: 30px;
+    font-weight: normal;
+    padding-left: 150px;
+    padding-top: 100px
+}
+
+.anna {
+    margin-top: inherit;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.about {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    text-align: center;
+    position: inherit;
+    padding-top: 466px;
+    padding-left: 350px;
+    padding-right: 120px;
+    padding-bottom: 30px;
+}
+
+.nav_link {
+    padding: 0 50px;
+    text-decoration-line: none;
+    text-decoration-color: darkorchid;
+    cursor: pointer;
+}
+
+a:hover {
+ color: darkorchid;
+}
+
+.items {
+    padding-left: 1060px;
+    padding-bottom: 10px;
+
+}
+
+.vk {
+    width: 4%;
+    padding: 0 5px;
+    margin: 0;
+    padding-top: 5px
+}
+
+.you {
+    width: 4%;
+    margin: 0;
+    padding-top: 5px
+}
+
+.inst {
+    width: 5%;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin: 0
+}
+
+
+
